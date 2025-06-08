@@ -16,6 +16,24 @@ Decentralized donor governance platform for humanitarian aid using XRP Ledger es
 ## 💻 Live Website:
 [Live Safeaid Website](https://charity-xrp-frontend.pages.dev/)
 
+## 📸 Screenshots
+
+### Platform Overview
+![AidSafe Dashboard](https://github.com/tyhh00/SafeAid/blob/main/Screenshots/Screenshot%20(18).png?raw=true)
+*Main donor dashboard showing active proposals and donation history*
+
+### Donation Process
+![Donation Flow](https://github.com/tyhh00/SafeAid/blob/main/images/donation-process.png?raw=true)
+*Step-by-step donation process with XRPL integration*
+
+### Proposal Voting
+![Voting Interface](https://github.com/tyhh00/SafeAid/blob/main/images/voting-interface.png?raw=true)
+*Community voting interface for proposal approval*
+
+### XRPL Integration
+![Escrow Transaction](https://github.com/tyhh00/SafeAid/blob/main/images/xrpl-escrow.png?raw=true)
+*Live escrow transaction on XRP Ledger Testnet*
+
 ## 🎥 Demo Video (30 seconds)
 
 [Demo Video Link](https://www.youtube.com/watch?v=PLACEHOLDER_VIDEO_ID)
