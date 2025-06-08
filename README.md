@@ -57,9 +57,6 @@ Sent     On-Chain      Medical Aid"      Voting        Payment
 **Live transaction examples on XRP Ledger Testnet:**
 
 - **Donor Contribution**: [https://testnet.xrpl.org/transactions/PLACEHOLDER_DONATION_TX_HASH](https://testnet.xrpl.org/transactions/PLACEHOLDER_DONATION_TX_HASH)
-- **Proposal Creation**: [https://testnet.xrpl.org/transactions/PLACEHOLDER_PROPOSAL_TX_HASH](https://testnet.xrpl.org/transactions/PLACEHOLDER_PROPOSAL_TX_HASH)
-- **Community Vote**: [https://testnet.xrpl.org/transactions/PLACEHOLDER_VOTE_TX_HASH](https://testnet.xrpl.org/transactions/PLACEHOLDER_VOTE_TX_HASH)
-- **Fund Release**: [https://testnet.xrpl.org/transactions/PLACEHOLDER_RELEASE_TX_HASH](https://testnet.xrpl.org/transactions/PLACEHOLDER_RELEASE_TX_HASH)
 - **Charity Escrow Wallet**: [https://testnet.xrpl.org/accounts/PLACEHOLDER_ESCROW_WALLET_ADDRESS](https://testnet.xrpl.org/accounts/PLACEHOLDER_ESCROW_WALLET_ADDRESS)
 
 *All transactions demonstrate real RLUSD escrow functionality and community governance*
