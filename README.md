@@ -58,7 +58,7 @@ Our donor governance system leverages XRP Ledger's escrow functionality for tran
 
 ### Key XRPL Features Used
 
-- **Multi-Signature Escrow**: Funds locked until community consensus is reached
+- **Charity Escrow**: Funds locked until community consensus is reached
 - **Conditional Escrow**: Automatic fund release based on voting outcomes
 - **RLUSD Stablecoin**: Stable value donations for predictable aid budgets
 - **Transaction Memos**: Proposal IDs and voting records embedded in transactions
