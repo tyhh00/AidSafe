@@ -85,32 +85,3 @@ Timeline: 72 hours for delivery
 Voting Period: 48 hours
 Current Status: 67% approval (Threshold: 51%)
 ```
-
-## 🚀 Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/aidsafe.git
-cd aidsafe
-
-# Install dependencies
-npm install
-
-# Configure environment
-cp .env.example .env
-# Add your XRPL testnet credentials
-
-# Start the application
-npm run dev
-```
-
-## 📋 Requirements Checklist
-
-✅ **GitHub Repository**: Complete source code available in public repository  
-✅ **Demo Video**: 30-second demonstration of core functionality  
-✅ **XRPL Integration**: Detailed explanation of escrow-based governance system  
-✅ **Block Explorer Links**: Live testnet transactions showing donations, votes, and fund releases  
-
----
-
-*Replace all PLACEHOLDER text with your actual content before submission*
