@@ -5,13 +5,15 @@ Decentralized donor governance platform for humanitarian aid using XRP Ledger es
 ## 📂 GitHub Repositories
 
 **Frontend Application**: [https://github.com/tyhh00/charity-xrp-frontend](https://github.com/tyhh00/charity-xrp-frontend)
-*React-based donor dashboard and voting interface*
+*React-based donor dashboard and voting interface hosted on Cloudflare Pages*
 
 **Backend API**: [https://github.com/tyhh00/xrp-charity-backend](https://github.com/tyhh00/xrp-charity-backend)
-*Node.js API server for proposal management and XRPL integration*
+*Node.js API server for proposal management and XRPL integration hosted on Cloudflare Workers*
 
 **Python Backend**: [https://github.com/tyhh00/python-charity-xrp](https://github.com/tyhh00/python-charity-xrp)
-*XRPL-based escrow and governance contract logic*
+*Python Backend for XRPL integration*
+
+## 💻 Live Website: [https://charity-xrp-frontend.pages.dev/]([https://github.com/tyhh00/python-charity-xrp](https://charity-xrp-frontend.pages.dev/))
 
 ## 🎥 Demo Video (30 seconds)
 
