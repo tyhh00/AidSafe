@@ -13,7 +13,8 @@ Decentralized donor governance platform for humanitarian aid using XRP Ledger es
 **Python Backend**: [https://github.com/tyhh00/python-charity-xrp](https://github.com/tyhh00/python-charity-xrp)
 *Python Backend for XRPL integration*
 
-## 💻 Live Website: [https://charity-xrp-frontend.pages.dev/]([https://github.com/tyhh00/python-charity-xrp](https://charity-xrp-frontend.pages.dev/))
+## 💻 Live Website:
+[Live Safeaid Website]([https://www.youtube.com/watch?v=PLACEHOLDER_VIDEO_ID](https://charity-xrp-frontend.pages.dev/))
 
 ## 🎥 Demo Video (30 seconds)
 
