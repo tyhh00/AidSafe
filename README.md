@@ -2,29 +2,22 @@
 
 Decentralized donor governance platform for humanitarian aid using XRP Ledger escrow with community-driven fund release voting.
 
-## 🎥 Demo Video
+## 📂 GitHub Repositories
 
-[![AidSafe Demo](https://img.youtube.com/vi/PLACEHOLDER_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER_VIDEO_ID)
+**Frontend Application**: [https://github.com/tyhh00/charity-xrp-frontend](https://github.com/tyhh00/charity-xrp-frontend)
+*React-based donor dashboard and voting interface*
 
-*[Replace with your actual demo video showing donation process, proposal creation, and voting workflow]*
+**Backend API**: [https://github.com/tyhh00/xrp-charity-backend](https://github.com/tyhh00/xrp-charity-backend)
+*Node.js API server for proposal management and XRPL integration*
 
-## 📱 Screenshots
+**Python Backend**: [https://github.com/tyhh00/python-charity-xrp](https://github.com/tyhh00/python-charity-xrp)
+*XRPL-based escrow and governance contract logic*
 
-### Donor Dashboard
-![Donor Dashboard](./screenshots/donor-dashboard.png)
-*Main interface for donors to contribute funds and view active proposals*
+## 🎥 Demo Video (30 seconds)
 
-### Proposal Creation
-![Proposal Interface](./screenshots/proposal-creation.png)
-*NGO interface for creating funding proposals with detailed allocation requests*
+[Demo Video Link](https://www.youtube.com/watch?v=PLACEHOLDER_VIDEO_ID)
 
-### Voting Interface
-![Voting System](./screenshots/voting-interface.png)
-*Donor voting interface showing proposal details and voting options*
-
-### Escrow Status Dashboard
-![Escrow Dashboard](./screenshots/escrow-dashboard.png)
-*Real-time view of locked funds and proposal approval status*
+*[Replace with your 30-second demo video showing donation process, proposal creation, and voting workflow]*
 
 ## 🔗 XRP Ledger Integration
 
@@ -55,20 +48,6 @@ Donor → Escrow Wallet → Proposal Created → Community Vote → Funds Releas
 RLUSD    Locked        "$100k for        Yes/No        Vendor
 Sent     On-Chain      Medical Aid"      Voting        Payment
 ```
-
-## 🎬 Technical Walkthrough Video
-
-[![Technical Deep Dive](https://img.youtube.com/vi/PLACEHOLDER_TECH_VIDEO_ID/0.jpg)](https://loom.com/share/PLACEHOLDER_LOOM_ID)
-
-**This video covers:**
-- Complete donation and voting workflow demo
-- GitHub repository structure explanation
-- Live demonstration of escrow creation and release
-- Detailed explanation of multi-signature voting system
-- How we satisfied all competition requirements
-- Code walkthrough of governance smart contract logic
-
-*Duration: [X] minutes with clear audio commentary*
 
 ## 🔍 XRPL Testnet Transactions
 
@@ -107,6 +86,31 @@ Voting Period: 48 hours
 Current Status: 67% approval (Threshold: 51%)
 ```
 
-## 🚀 Github Repos
+## 🚀 Getting Started
 
-[![Front End]([https://img.youtube.com/vi/PLACEHOLDER_TECH_VIDEO_ID/0.jpg](https://github.com/tyhh00/charity-xrp-frontend))]
+```bash
+# Clone the repository
+git clone https://github.com/your-username/aidsafe.git
+cd aidsafe
+
+# Install dependencies
+npm install
+
+# Configure environment
+cp .env.example .env
+# Add your XRPL testnet credentials
+
+# Start the application
+npm run dev
+```
+
+## 📋 Requirements Checklist
+
+✅ **GitHub Repository**: Complete source code available in public repository  
+✅ **Demo Video**: 30-second demonstration of core functionality  
+✅ **XRPL Integration**: Detailed explanation of escrow-based governance system  
+✅ **Block Explorer Links**: Live testnet transactions showing donations, votes, and fund releases  
+
+---
+
+*Replace all PLACEHOLDER text with your actual content before submission*
