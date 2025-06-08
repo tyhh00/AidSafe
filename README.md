@@ -109,4 +109,4 @@ Current Status: 67% approval (Threshold: 51%)
 
 ## 🚀 Github Repos
 
-[![Front End]([https://img.youtube.com/vi/PLACEHOLDER_TECH_VIDEO_ID/0.jpg](https://github.com/tyhh00/charity-xrp-frontend))]([https://loom.com/share/PLACEHOLDER_LOOM_ID](https://github.com/tyhh00/charity-xrp-frontend))
+[![Front End]([https://img.youtube.com/vi/PLACEHOLDER_TECH_VIDEO_ID/0.jpg](https://github.com/tyhh00/charity-xrp-frontend))]
