@@ -40,7 +40,7 @@ Decentralized donor governance platform for humanitarian aid using XRP Ledger es
 
 ## 🎥 Demo Video (30 seconds)
 
-[Demo Video Link](https://www.youtube.com/watch?v=PLACEHOLDER_VIDEO_ID)
+[Demo Video Link](https://www.youtube.com/watch?v=cN44o2XYf-c&feature=youtu.be)
 
 *[Replace with your 30-second demo video showing donation process, proposal creation, and voting workflow]*
 
